@@ -11,7 +11,8 @@ You can use this script to translate unlimited text.
 After cloning this repository, you can use this script by running the following command:
 
 ```bash
-$ python UnlimitedAutoTranslate.py README.md en de
+$ python UnlimitedAutoTranslate.py en_us.json en es
+    python UnlimitedAutoTranslate.py en_us.json en es
 ```
 
 ### Parameters
