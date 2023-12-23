@@ -22,3 +22,7 @@ The first argument is the input file, the second argument is the source language
 The second argument is the source language and it's optional. If you don't specify the source language, the script will try to detect the source language automatically.
 
 Copyright (c) 2023, Max Base
+
+### De RobertOrange
+
+Este fork se hizo para traducir documentos y textos de interes, principalmente mods de Minecraft, el codigo no ha sido modificado, pero si algunas partes de lectura.
